@@ -1,0 +1,5 @@
+{
+  "name": "LiveCook",
+  "description": "An innovative food delivery platform that allows you to watch your meal being cooked live, interact with chefs, book chefs to cook at your home, and place orders from multiple restaurants in a single cart. Features drone delivery, 24/7 service, and a food donation program.",
+  "requestFramePermissions": []
+}
